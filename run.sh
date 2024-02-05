@@ -2,7 +2,8 @@
 
 git clone https://github.com/Shuchith2507/sampleapp.git
 if [ -d "sample" ]; then
-	rm -rf scripts
+	rm -rf sample
+	
 fi 
 
 mv sampleapp sample
