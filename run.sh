@@ -5,7 +5,7 @@ mv sampleapp sample
 #cd sample
 ls -a
 sudo -s
-cd /opt/timcat/webapps
+cd /opt/tomcat/webapps
 #cp -Rf sample /opt/tomcat/webapps
 #pwd
 #ls -a
