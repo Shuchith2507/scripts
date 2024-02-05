@@ -3,7 +3,7 @@
 git clone https://github.com/Shuchith2507/sampleapp.git
 if [ -d "sample" ]; then
 	rm -rf sample
-	
+	rm -rf sampleapp			
 fi 
 
 mv sampleapp sample
