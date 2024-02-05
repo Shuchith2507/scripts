@@ -12,6 +12,6 @@
 #ls -a
 
 echo "Copy DOne"
-cd /home/ubuntu
+cd /opt/tomcat/
 ls -a
 
