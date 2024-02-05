@@ -3,9 +3,10 @@ echo "Copy"
 
 mv sampleapp sample
 #cd sample
-ls -a
 sudo -s
-cd /opt/tomcat/webapps
+cd /
+ls -a
+
 #cp -Rf sample /opt/tomcat/webapps
 #pwd
 #ls -a
