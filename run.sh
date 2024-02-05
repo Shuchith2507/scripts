@@ -4,7 +4,7 @@ echo "Copy"
 mv sampleapp sample
 #cd sample
 sudo -s
-cd /
+cd /opt/
 ls -a
 
 #cp -Rf sample /opt/tomcat/webapps
